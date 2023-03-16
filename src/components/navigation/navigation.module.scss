@@ -3,13 +3,13 @@
   list-style-type: none;
   flex-direction: column;
   justify-content: center;
-  width: 200px;
+  width: 170px;
   height: 100%;
   position: fixed;
   background-color: #171717;
   padding: 0px 20px;
   overflow: auto;
-  border-right: 1px white;
+  box-shadow: 1px 0px 0px #686868;
 }
 
 ul {
